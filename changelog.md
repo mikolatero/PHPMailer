@@ -1,5 +1,8 @@
 # PHPMailer Change Log
 
+## Version 6.0.7 PHP 5.3 VERSION (February 14th 2019)
+* Replaced `[]` compatible with php 5.3 version `array()`
+
 ## Version 6.0.7 (February 1st 2019)
 * Include RedHat GPL Cooperation Commitment - see the `COMMITMENT` file for details.
 * Don't exclude composer.json from git exports as it breaks composer updates in projects that use PHPMailer

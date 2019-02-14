@@ -1,6 +1,6 @@
-![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
+![PHPMailer (PHP 5.3)](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
 
-# PHPMailer - A full-featured email creation and transfer class for PHP
+# PHPMailer - A full-featured email creation and transfer class for PHP - EDITED FOR PHP 5.3
 
 Build status: [![Build Status](https://travis-ci.org/PHPMailer/PHPMailer.svg)](https://travis-ci.org/PHPMailer/PHPMailer)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/PHPMailer/PHPMailer/badges/quality-score.png?s=3758e21d279becdf847a557a56a3ed16dfec9d5d)](https://scrutinizer-ci.com/g/PHPMailer/PHPMailer/)
